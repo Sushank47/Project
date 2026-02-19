@@ -23,4 +23,15 @@ This project includes a neural network built using TensorFlow to classify clothi
 
 ### Run
 python3 fashion_mnist_model.py
+
+
+## Convolution and Pooling
+
+Manual implementation of:
+- 3x3 Convolution (Edge Detection)
+- 2x2 Max Pooling
+- Overflow-safe integer handling
+
+Demonstrates how CNN feature extraction works internally.
+
  
